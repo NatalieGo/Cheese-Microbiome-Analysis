@@ -11,8 +11,8 @@ This repository contains Python scripts and Jupyter notebooks used for the analy
 ## Repository structure
 
 ```
-analysis/      Python analysis scripts, jupyter notebooks
-figures/      Figures generated from the analysis
+analysis/    Analysis scripts and Jupyter notebooks
+figures/     Figures generated from the analysis
 ```
 
 ## Citation
