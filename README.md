@@ -13,7 +13,6 @@ This repository contains Python scripts and Jupyter notebooks used for the analy
 ```
 scripts/      Python analysis scripts
 notebooks/    Jupyter notebooks
-data/         Example input/output data
 figures/      Figures generated from the analysis
 ```
 
